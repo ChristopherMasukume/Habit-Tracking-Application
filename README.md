@@ -1,4 +1,3 @@
-# Habit-Tracking-Application
 Habit Tracking App - README
 ====================================================================================    
 **Through the Object-Oriented and Functional Programming module, a backend for a Habit Tracking Application has been 
@@ -13,7 +12,7 @@ created using Python Programming language through PyCharm.**
 ### Install Habit Tracking Application
 
 - Download the latest version of IU habit tracker from 
-[here](https://github.com/ChristopherMasukume/Habit-Tracking-Application) or clone the repository 
+[here](https://github.com/ChristopherMasukume/Habit-Tracking-Application)
 - unzip the file and go to the "IU-habit-tracker-master" directory
 - Create a python virtual environment
 
