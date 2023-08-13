@@ -11,8 +11,8 @@ created using Python Programming language through PyCharm.**
 
 ### Install Habit Tracking Application
 
-- Download the latest version of IU habit tracker from 
-[here](https://github.com/ChristopherMasukume/Habit-Tracking-Application)
+- Download the latest version of IU habit tracker from
+[here][(https://github.com/ChristopherMasukume/Habit-Tracking-Application/archive/refs/heads/main.zip)]
 - unzip the file and go to the "IU-habit-tracker-master" directory
 - Create a python virtual environment
 
