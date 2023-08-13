@@ -52,7 +52,7 @@ You should see something like this if all the tests are successful:
 python main.py
 ```
 
-- You should see the main menu like picture below, and you can navigate through the options using the arrow keys and press enter to select an option.
+- You should see the main menu and you can navigate through the options using the arrow keys and press enter to select an option.
 
 
 
